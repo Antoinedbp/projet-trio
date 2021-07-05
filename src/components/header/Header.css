@@ -1,0 +1,33 @@
+.maNav{
+    background-color: lightgrey;
+    height: 5rem;
+    display: flex;
+    align-items: center;
+}
+.monLogo{
+    width: 170px;
+}
+.input1{
+    margin: 0.5rem;
+    box-shadow: 2px 2px 5px black;
+    border: none;
+    border-radius: 2px;
+
+}
+.input2{
+    margin: 0.5rem;
+    box-shadow: 2px 2px 5px black;
+    border: none;
+    border-radius: 2px;
+}
+.monB{
+    margin: 0.5rem;
+    box-shadow: 2px 2px 5px black;
+    display: flex;
+    justify-content: center;
+    background-color: rgba(170, 50, 220, .6);
+    color: white;
+    border-radius: 5px;
+    border: none;
+    padding: 0.5rem;
+}
